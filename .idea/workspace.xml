@@ -17,7 +17,7 @@
         <entry file="file://$PROJECT_DIR$/FAIRshake_evaluations.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="21" />
+              <selected id="23" />
             </state>
           </provider>
         </entry>
@@ -71,6 +71,24 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="FAIRshake_Evaluations" type="JupiterNotebook" factoryName="Jupyter Notebook">
+      <module name="FAIRshake_Evaluations" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="additionalOptions" value="" />
+      <option name="ipnbHost" value="127.0.0.1" />
+      <option name="ipnbPort" value="8888" />
+    </configuration>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -91,7 +109,7 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24970132" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32970297" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info active="true" anchor="bottom" id="Python Console" visible="true" weight="0.32970297" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -114,7 +132,7 @@
     <entry file="file://$PROJECT_DIR$/FAIRshake_evaluations.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="21" />
+          <selected id="23" />
         </state>
       </provider>
     </entry>
