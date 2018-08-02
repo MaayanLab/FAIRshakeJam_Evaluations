@@ -57,7 +57,7 @@
         <entry file="file://$PROJECT_DIR$/FAIRshake_evaluations.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="19" />
+              <selected id="23" />
             </state>
           </provider>
         </entry>
@@ -187,7 +187,7 @@
     <frame x="50" y="23" width="1816" height="1107" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15445322" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15445322" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -205,7 +205,7 @@
       <window_info anchor="bottom" id="Python Console" order="10" visible="true" weight="0.32906404" />
       <window_info anchor="right" x="0" y="0" width="404" height="907" id="Documentation" sideWeight="0.50220263" side_tool="true" visible="true" weight="0.30721533" />
       <window_info anchor="right" id="Database" weight="0.32976323" />
-      <window_info active="true" anchor="right" x="685" y="69" width="545" height="1015" id="SciView" sideWeight="0.49779737" visible="true" weight="0.30721533" />
+      <window_info anchor="right" x="685" y="69" width="545" height="1015" id="SciView" sideWeight="0.49779737" visible="true" weight="0.30721533" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -225,7 +225,7 @@
     <entry file="file://$PROJECT_DIR$/FAIRshake_evaluations.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="19" />
+          <selected id="23" />
         </state>
       </provider>
     </entry>
