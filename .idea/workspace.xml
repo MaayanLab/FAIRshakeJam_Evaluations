@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71b8e0e4-65c1-4fdd-be09-89bd207a3262" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/FAIRshake_Evaluations.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/FAIRshake_Evaluations.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FAIRshake_evaluations.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/FAIRshake_evaluations.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,12 +38,12 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="99" />
-          <entry key="py" value="257" />
+          <entry key="py" value="266" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="356" />
+          <entry key="Python" value="365" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open" />
@@ -59,7 +57,7 @@
         <entry file="file://$PROJECT_DIR$/FAIRshake_evaluations.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="3" />
+              <selected id="19" />
             </state>
           </provider>
         </entry>
@@ -227,7 +225,7 @@
     <entry file="file://$PROJECT_DIR$/FAIRshake_evaluations.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="3" />
+          <selected id="19" />
         </state>
       </provider>
     </entry>
