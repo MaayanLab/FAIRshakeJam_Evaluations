@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71b8e0e4-65c1-4fdd-be09-89bd207a3262" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FAIRshake_evaluations.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/FAIRshake_evaluations.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +52,7 @@
       <usages-collector id="statistics.file.extensions.open" />
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.types.open" />
+      <usages-collector id="statistics.vcs.git.usages" />
     </session>
   </component>
   <component name="FileEditorManager">
@@ -61,7 +61,7 @@
         <entry file="file://$PROJECT_DIR$/FAIRshake_evaluations.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="9" />
+              <selected id="8" />
             </state>
           </provider>
         </entry>
