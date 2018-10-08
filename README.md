@@ -1,6 +1,6 @@
-# FAIRshake_Evaluations
+# FAIRshake Jam Evaluations
 
-##Results Jupyter Notebook:
+##Results Jupyter Notebook analyzing the FAIRshake Jam overall stats:
 
 https://github.com/MaayanLab/FAIRshake_Evaluations/blob/master/FAIRshake_evaluations.ipynb
 
